@@ -16,13 +16,7 @@ When adding an entry, highlight the word you want to put in the script and then 
 Type the correct spelling of the word on the far right hand side of what's in the box. Everything you see in the box will be directly added to the script, at the bottom
 of the list.
 
-Example:  
-
-          :*:tset::test
-
-          ::tset::test
-          
-          :?:tset::test
+Example: :*:tset::test
 
 Entry guide:
 
@@ -32,3 +26,5 @@ Manual entries will correct once you press the space bar. For example, ohyes wil
 
 Mid text automatic entries will correct just like manual entries, the only difference being it will correct inside of other texts. For example, maybeso will correct once
 you press space to maybe so, but will also correct ohmaybeso to ohmaybe so.
+
+The reason for not just using automatic entries for everything is because it would correct things that aren't wrong and make them wrong. For example, if you had i correct to I with an automatic entry, then sink would be corrected to sInk.
