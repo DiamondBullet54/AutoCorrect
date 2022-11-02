@@ -16,6 +16,14 @@ When adding an entry, highlight the word you want to put in the script and then 
 Type the correct spelling of the word on the far right hand side of what's in the box. Everything you see in the box will be directly added to the script, at the bottom
 of the list.
 
+Example:  
+
+          :*:tset::test
+
+          ::tset::test
+          
+          :?:tset::test
+
 Entry guide:
 
 Automatic entries will correct once you type the last letter of the misspelled word. For example, ohno will only correct to oh no once you type the last o.
