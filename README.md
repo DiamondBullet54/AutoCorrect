@@ -5,8 +5,11 @@ Install AutoHotKey on your computer to use this, and make sure to put the icons 
 Keybinds:
 
 Win + A to add an automatic entry
+
 Win + M to add a manual entry
+
 Win + ? to add a mid text manual entry
+
 Win + P to pause the script
 
 When adding an entry, highlight the word you want to put in the script and then press the appropriate keybind, depending on which kind of entry it should be.
