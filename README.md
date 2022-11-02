@@ -19,6 +19,8 @@ of the list.
 Entry guide:
 
 Automatic entries will correct once you type the last letter of the misspelled word. For example, ohno will only correct to oh no once you type the last o.
+
 Manual entries will correct once you press the space bar. For example, ohyes will only correct to oh yes when you type out ohyes and press space.
+
 Mid text automatic entries will correct just like manual entries, the only difference being it will correct inside of other texts. For example, maybeso will correct once
 you press space to maybe so, but will also correct ohmaybeso to ohmaybe so.
