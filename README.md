@@ -1,6 +1,6 @@
 # AutoCorrect
 
-Install AutoHotKey on your computer to use this, and make sure to put the icons in the same directory as the .ahk script.
+Install AutoHotkey on your computer to use this, and make sure to put the icons in the same directory as the .ahk script.
 
 Keybinds:
 
